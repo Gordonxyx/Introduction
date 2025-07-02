@@ -11,7 +11,7 @@
 
 📧 gordonxi@usc.edu  
 
-🔗 [Portfolio Website](gordonportfolio.squarespace.com) | [LinkedIn](https://www.linkedin.com/in/yuxian-xiao-pmbada-game-entertainment/)
+🔗 [Portfolio Website](https://gordonportfolio.squarespace.com/) | [LinkedIn](https://www.linkedin.com/in/yuxian-xiao-pmbada-game-entertainment/)
 
 ---
 
