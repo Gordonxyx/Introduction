@@ -2,8 +2,8 @@
 # 👋 Hi, I'm Yuxian (Gordon) Xiao
 
 🎓 MS in Business Analytics @ USC Marshall  
-🎮 Ex-Product Operation Analyst @ Tencent Games, Supercell Cooperation Group (Squad Busters, Brawl Stars, Clash Royales, Clash of Clans, HayDay, Mo.co)
-🎮 Ex-Business Analyst @ Tencent Games, Level Infinite (PUBG Mobile)
+🎮 Ex-Product Operation Analyst @ Tencent Games, Supercell Cooperation Group 
+🎮 Ex-Business Analyst @ Tencent Games, Level Infinite 
 📍 Based in California (Irvine / Los Angeles / San Diego / Bay Area)  
 📧 gordonxi@usc.edu  
 🔗 [Portfolio Website](gordonportfolio.squarespace.com) | [LinkedIn](https://www.linkedin.com/in/yuxian-xiao-pmbada-game-entertainment/)
