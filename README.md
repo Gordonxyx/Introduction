@@ -6,7 +6,7 @@
 🎮 Ex-Business Analyst @ Tencent Games, Level Infinite 
 📍 Based in California (Irvine / Los Angeles / San Diego / Bay Area)  
 📧 gordonxi@usc.edu  
-🔗 [Portfolio Website](gordonportfolio.squarespace.com) | [LinkedIn](https://www.linkedin.com/in/yuxian-xiao-pmbada-game-entertainment/)
+🔗 [Portfolio Website](https://gordonportfolio.squarespace.com/) | [LinkedIn](https://www.linkedin.com/in/yuxian-xiao-pmbada-game-entertainment/)
 
 ---
 
@@ -17,6 +17,8 @@ I'm Gordon, a data-driven analyst with a passion for gaming, emerging tech, and 
 My background spans internships at **Tencent Games (Supercell & Level Infinite)** where I analyzed large-scale user behavior, campaign performance, and monetization strategies for some of the world's most engaging games. I also keep training my technical skills and product business sense across **Marketing Campaign**, **A/B Testing**, **Data Pipeline**, and **Business Intelligence** projects
 
 I love connecting the dots between data and storytelling—using tools like **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Scipy, Statsmodels), SQL (PostgreSQL, MySQL), Excel (Pivot Table, VBA, VLOOKUP), Power BI, Tableau, Snowflake, and dbt** to uncover insights and drive better decisions.
+
+Check here for my [Resume](https://gordonportfolio.squarespace.com/s/Gordon-Xiao)
 
 ---
 
@@ -30,4 +32,5 @@ I love connecting the dots between data and storytelling—using tools like **Py
 
 ---
 
-Feel free to connect with me or check out my work here or on my portfolio website. Always excited to explore new ideas and collaborations!
+Feel free to connect with me or check out my work here or on my [Portfolio Website](https://gordonportfolio.squarespace.com/). Always excited to explore new ideas and collaborations!
+
